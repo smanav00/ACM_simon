@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+.head{
+  position: absolute;
+  font-size: 2rem;
+  top: auto;
+  right: 50px;
+  left: 50px;
+  color: #FEF2BF;
+}
+
+.center{
+  position: absolute;
+  top: 200px;
+  right: 50px;
+  left: 50px;
+  color: #FEF2BF;
+}
+.center hr{
+  margin-top: 100px;
+  text-align: left;
+}
+
+.footer a{
+  position: absolute;
+  color: red;
+  text-decoration: none;
+  top: 500px;
+  right: 50px;
+    left: 50px;
+}
+.footer p{
+  position: absolute;
+  color: #FEF2BF;
+  text-decoration: none;
+  top: 600px;
+  right: 50px;
+    left: 50px;
+}
+.footer a:hover{
+  color: yellow;
+}
