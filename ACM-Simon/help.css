@@ -15,15 +15,23 @@ body {
 .center{
   position: absolute;
   top: 200px;
-  right: 50px;
+  right: 1px;
   left: 50px;
   color: #FEF2BF;
 }
 .center hr{
   margin-top: 100px;
+  margin-right: 40px;
   text-align: left;
 }
+ol{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2.0;
+  font-size: 20px;
 
+}
 .footer a{
   position: absolute;
   color: red;
